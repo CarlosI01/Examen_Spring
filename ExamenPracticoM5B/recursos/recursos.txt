@@ -1,0 +1,5 @@
+https://docs.google.com/document/d/1Ss8A3TXLAfrf8QThFXEORVdIKgL8ZoqzMvhu6dpdh8o/edit?usp=sharing
+
+INSERT INTO `empleado`( `apellido`, `dias_trabajo`, `direccion`, `fecha_nacimiento`, `nombre`, `observacion`, `sueldo`, `telefono`) VALUES ('Ibarra','Carlos','xxxx','xxx','xxxx','xxx',10,10);
+INSERT INTO `empleado`( `apellido`, `dias_trabajo`, `direccion`, `fecha_nacimiento`, `nombre`, `observacion`, `sueldo`, `telefono`) VALUES ('Juan','Para','xxxx','xxx','xxxx','xxx',10,10);
+INSERT INTO `empleado`( `apellido`, `dias_trabajo`, `direccion`, `fecha_nacimiento`, `nombre`, `observacion`, `sueldo`, `telefono`) VALUES ('Martin','Nd','xxxx','xxx','xxxx','xxx',10,10);
